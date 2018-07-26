@@ -1,7 +1,7 @@
 .PHONY: all build release
 
 IMAGE=dddpaul/ttrss
-VERSION=1.3
+VERSION=a2d1fa5b14
 
 all: build
 
